@@ -1,0 +1,3 @@
+[submodule "urtext"]
+	path = urtext
+	url = https://github.com/nbeversl/urtext
